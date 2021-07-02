@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Devops Engineer</h3>
 <img align="center" alt="Coding" width="1200" src="https://media-exp3.licdn.com/dms/image/C4E16AQFVwg-1olvFGw/profile-displaybackgroundimage-shrink_350_1400/0/1625200301386?e=1630540800&v=beta&t=x5Q3I-ter5jEpKlNBlBEA6POhuBrxkp4PeVaIvl4_to">
 
-- 🌱 I’m currently learning **Teraform, Adtree, CKA, AWS SA, Azure**
+- 🌱 I’m currently learning **Teraform, Datree, CKA, AWS SA, Azure**
 
 - 💬 Ask me about **Web UI Automation, Image Autotmation, Devops, ML dataset.**
 
