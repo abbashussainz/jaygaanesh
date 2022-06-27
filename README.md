@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jai Ganesh</h1>
-<h3 align="center">A passionate Devops Engineer</h3>
-<img align="center" alt="Coding" width="1200" src="https://octodex.github.com/images/NUX_Octodex.gif">
+<h3 align="center">A passionate Cloud Devops Engineer</h3>
+<img align="center" alt="Coding" src="https://octodex.github.com/images/NUX_Octodex.gif">
 
 - 🌱 I’m currently learning **Teraform, Datree, CKA, AWS SA, Azure**
 
